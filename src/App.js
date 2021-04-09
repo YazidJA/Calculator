@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import Calculator from "./Calculator";
 
-// To do:
+// To do (some day...):
 
-// Replace double operators
 // Add Rounding
 // Limit Input Length
+// Clean up code
 
 const operators = /[-+*/]/;
 const endOperators = /\D+$/;
