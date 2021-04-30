@@ -1,2 +1,2 @@
 # Calculator
-Calculator App made with React
+App made with React
