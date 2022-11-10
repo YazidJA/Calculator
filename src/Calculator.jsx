@@ -16,6 +16,8 @@ const Calculator = (props) => {
             id="clear"
             onClick={props.onClear}
             colSpan="2"
+
+            
             className="operation">
             C
           </td>
